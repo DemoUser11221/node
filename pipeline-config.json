@@ -1,0 +1,1 @@
+{"appName":"sample-reacjts","version":"1.0.0","source":{"repoUrl":"","branching":"trunk","defaultBranch":"development"},"appBuild":{"framework":"NPM / Yarn","codeQualityTool":"SonarQube","runCodeQualityScan":"false","runTests":"false","testCmd":"","pushBinary":"false","npmrcAvailable":"false","binaryRepository":"","customBuildCmd":""}}
